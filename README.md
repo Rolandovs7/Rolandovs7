@@ -1,6 +1,6 @@
-<!-- Banner de Bienvenida (Más confiable) -->
+<!-- Banner de Bienvenida (Estilo Tech Oscuro) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hola,%20soy%20Rolando%20👋&fontSize=50&fontAlign=50&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hola,%20soy%20Rolando%20👋&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=50" />
 </div>
 
 <!-- Presentación -->
@@ -33,6 +33,8 @@
 </div>
 
 <br>
+<hr>
+<br>
 
 <!-- Sección Sobre Mí -->
 <h3 align="center">👨‍💻 Sobre mí</h3>
@@ -44,18 +46,20 @@
 </div>
 
 <br>
+<hr>
+<br>
 
-<!-- Estadísticas (Enlaces corregidos para que funcionen YA) -->
+<!-- Estadísticas -->
 <h3 align="center">📊 Mis Estadísticas</h3>
 <div align="center">
-  <!-- Stats y Lenguajes (Estos funcionan al instante) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Rolandovs7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rolandovs7&layout=compact&theme=dracula&langs_count=6" height="150" alt="languages" />
+  <!-- Stats y Lenguajes -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Rolandovs7&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rolandovs7&layout=compact&theme=radical&langs_count=6" height="150" alt="languages" />
   
   <br><br>
   
   <!-- Racha (Streak) -->
-  <img src="https://streak-stats.demolab.com?user=Rolandovs7&theme=dracula&hide_border=false" height="150" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=Rolandovs7&theme=radical&hide_border=false" height="150" alt="streak" />
   
   <br><br>
   
@@ -64,8 +68,10 @@
 </div>
 
 <br>
+<hr>
+<br>
 
-<!-- Pac-Man (Nota: Esto aparecerá cuando configures la Action en GitHub) -->
+<!-- Pac-Man -->
 <h3 align="center">🕹️ Mi contribución en Pac-Man</h3>
 <div align="center">
   <picture>
@@ -75,6 +81,8 @@
   </picture>
 </div>
 
+<br>
+<hr>
 <br>
 
 <!-- Cierre Visual -->
