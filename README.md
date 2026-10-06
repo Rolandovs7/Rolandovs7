@@ -58,16 +58,6 @@
 <hr>
 <br>
 
-<!-- Trofeos de GitHub -->
-<h3 align="center">🏆 Mis Trofeos</h3>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rolandovs7&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
-</div>
-
-<br>
-<hr>
-<br>
-
 <!-- Estadísticas -->
 <h3 align="center">📊 Mis Estadísticas</h3>
 <div align="center">
@@ -77,16 +67,6 @@
   <br><br>
   
   <img src="https://streak-stats.demolab.com?user=Rolandovs7&theme=radical&hide_border=false" height="150" alt="streak" />
-</div>
-
-<br>
-<hr>
-<br>
-
-<!-- Gráfico de Actividad (Enlace alternativo que SÍ funciona) -->
-<h3 align="center">📈 Mi Actividad Reciente</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rolandovs7&theme=react-dark&area=true&hide_border=true&custom_title=Mi%20Actividad%20Reciente&bg_color=0f2027&color=ffffff&line=2c5364&point=ffffff" height="300" alt="activity graph" />
 </div>
 
 <br>
