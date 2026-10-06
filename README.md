@@ -70,16 +70,15 @@
 <br>
 <hr>
 <br>
-
 <!-- Pac-Man -->
 <h3 align="center">🕹️ Mi contribución en Pac-Man</h3>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rolandovs7/Rolandovs7/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rolandovs7/Rolandovs7/pacman-output/pacman-contribution-graph.svg?game=pacman">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rolandovs7/Rolandovs7/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rolandovs7/Rolandovs7/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rolandovs7/Rolandovs7/pacman-output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rolandovs7/Rolandovs7/pacman-output/pacman-contribution-graph.svg">
   </picture>
-</div>
+</div>s
 
 <br>
 <hr>
