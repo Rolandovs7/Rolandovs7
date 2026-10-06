@@ -41,20 +41,24 @@
 <hr>
 <br>
 
-<!-- Sección Sobre Mí -->
-<h3 align="center">👨‍💻 Sobre mí</h3>
-<div align="center">
-  <p>🔭 Actualmente estoy trabajando en <b>mis proyectos personales</b></p>
-  <p>🌱 Actualmente estoy aprendiendo <b>Nuevas tecnologías web</b></p>
-  <p>💬 Pregúntame sobre <b>Python, JavaScript o Bases de Datos</b></p>
-  <p>⚡ Dato curioso: <b>Me encanta resolver problemas complejos</b></p>
-</div>
+<!-- Sección Sobre Mí con Fondo -->
+<table align="center" style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); border-radius: 15px; padding: 20px; width: 90%;">
+  <tr>
+    <td align="center">
+      <h3>👨‍💻 Sobre mí</h3>
+      <p style="color: #ffffff;">🔭 Actualmente estoy trabajando en <b>mis proyectos personales</b></p>
+      <p style="color: #ffffff;">🌱 Actualmente estoy aprendiendo <b>Nuevas tecnologías web</b></p>
+      <p style="color: #ffffff;">💬 Pregúntame sobre <b>Python, JavaScript o Bases de Datos</b></p>
+      <p style="color: #ffffff;">⚡ Dato curioso: <b>Me encanta resolver problemas complejos</b></p>
+    </td>
+  </tr>
+</table>
 
 <br>
 <hr>
 <br>
 
-<!-- Trofeos de GitHub (NUEVO - Se ve muy profesional) -->
+<!-- Trofeos de GitHub -->
 <h3 align="center">🏆 Mis Trofeos</h3>
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Rolandovs7&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophies" />
@@ -67,26 +71,29 @@
 <!-- Estadísticas -->
 <h3 align="center">📊 Mis Estadísticas</h3>
 <div align="center">
-  <!-- Stats y Lenguajes -->
   <img src="https://github-readme-stats.vercel.app/api?username=Rolandovs7&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="150" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rolandovs7&layout=compact&theme=radical&langs_count=6" height="150" alt="languages" />
   
   <br><br>
   
-  <!-- Racha (Streak) -->
   <img src="https://streak-stats.demolab.com?user=Rolandovs7&theme=radical&hide_border=false" height="150" alt="streak" />
-  
-  <br><br>
-  
-  <!-- Actividad (Enlace corregido) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rolandovs7&theme=react-dark&area=true&hide_border=true&custom_title=Mi%20Actividad%20Reciente" height="300" alt="activity graph" />
 </div>
 
 <br>
 <hr>
 <br>
 
-<!-- Pac-Man (Ahora con título más limpio) -->
+<!-- Gráfico de Actividad (Enlace alternativo que SÍ funciona) -->
+<h3 align="center">📈 Mi Actividad Reciente</h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rolandovs7&theme=react-dark&area=true&hide_border=true&custom_title=Mi%20Actividad%20Reciente&bg_color=0f2027&color=ffffff&line=2c5364&point=ffffff" height="300" alt="activity graph" />
+</div>
+
+<br>
+<hr>
+<br>
+
+<!-- Pac-Man -->
 <h3 align="center">🕹️ Mi Contribución en Pac-Man</h3>
 <div align="center">
   <picture>
@@ -100,16 +107,13 @@
 <hr>
 <br>
 
-<!-- Conecta Conmigo (NUEVO - Muy profesional) -->
+<!-- Conecta Conmigo -->
 <h3 align="center">🌐 Conecta conmigo</h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/tu-usuario/" target="_blank">
+  <a href="https://www.linkedin.com/in/rolando-velasco-soliz-b321a33a9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/tu-usuario" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:tu-correo@gmail.com">
+  <a href="mailto:rolando.vsoliz@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/Rolandovs7" target="_blank">
@@ -119,7 +123,7 @@
 
 <br>
 
-<!-- Cierre Visual (Sutil) -->
+<!-- Cierre Visual -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer" />
 </div>
