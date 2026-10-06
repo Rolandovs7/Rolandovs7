@@ -2,27 +2,33 @@ name: Generate Pac-Man Graph
 
 on:
   schedule:
-    - cron: "0 */24 * * *" 
+    - cron: "0 */24 * * *"
   workflow_dispatch:
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
-    permissions: 
+    permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
+    timeout-minutes: 20
+
     steps:
-      - name: generate pacman-contribution-graph.svg
-        uses: abhisheknaiidu/pacman-contribution-graph@main
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate Pac-Man SVG
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Rolandovs7
-          
-      - name: push pacman-contribution-graph.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/pacman-contribution-graph.svg?game=pacman
+            dist/pacman-contribution-graph-dark.svg?game=pacman&palette=github-dark
+
+      - name: Push to pacman-output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: pacman-output
           build_dir: dist
